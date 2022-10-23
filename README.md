@@ -1,5 +1,6 @@
-# main
+# main[]{}
 bitcoin
+https://github.com/extraterestrial1/et/blob/main/.gitignore#:~:text=workspace.xml,junit*.properties
 uvp577rkyhhbevvegn36erm6qj3ctgfv9wxcu7lff9an4a3my9mek6xzqg7mxfksb36	23:15	6 BTC$114872.94[]{}
 sqp2gvs8sbrnatf4xty55sz8bhkk4my8l94m5qsr6raes8zseqt83t6tgulr66vpjhz	23:15	0.001 BTC$19.14549[]{}
 smhgkht55hztxqbxs9caykx266by4abxkh3b7ssn687csp828v9hqhskxty4hzhsxf5	23:15	0.01 BTC$191.4549[]{}
@@ -21,3 +22,4 @@ ejxwjt7htwhbcv6u8bq5bpea3brrgvgyz3zvkcstrb7qrt2bahgg6klfpzhcxvsvrb7	23:15	0.05 B
 s6ksumcevqh2qqrgfu5sjl4guwv9z7fxcnjnkx9ez33zu7qyyplhzp82splm[]{}
 https://www.bitcoin-hashing.com/payout_blocks#:~:text=Transaction%20Hash,2022All%20rights%20reserved={fitzwater, chais. "Editing main/README.md at main · extraterestrial1/main"   Github,  20 Oct. 2022, https://github.com/extraterestrial1/main/edit/main/README.md. Accessed 1 Jan. 1970.}
 https://github.com/jakebitz/chais
+https://github.com/extraterestrial1/et/blob/main/.gitignore#:~:text=workspace.xml,junit*.properties
