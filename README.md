@@ -1,5 +1,6 @@
   <DocTypeHTML>
-
+</html>
+edge://view-cert/#:~:text=Field%20Value-,PKCS%20%231%20SHA%2D1%20With%20RSA%20Encryption,-import%E2%80%A6
 <edge://view-cert/#:~:>text=Not%20critical%0AURI%3A%20http%3A//crl3.digicert.com/DigiCertTLSHybridECCSHA3842020CA1%2D1.crl%0AURI%3A%20http%3A//crl4.digicert.com/DigiCertTLSHybridECCSHA3842020CA1%2D1.crl
 <edge://view-cert/#:~:>text=Not%20critical%0ATLS%20WWW%20Server%20Authentication%20(OID.1.3.6.1.5.5.7.3.1)%0ATLS%20WWW%20Client%20Authentication%20(OID.1.3.6.1.5.5.7.3.2)
 <edge://view-cert/#:~:>text=Field%20Value-,Critical%0ASigning,-import%E2%80%A6
@@ -27,7 +28,10 @@
 <# main>
 <https://github.com/extraterestrial1/main/>
  <bitcoin-usdc-usdt-etc-d43e8c88d49033ceb74281940922afeb567bbac26ee9fab1b713e2d820811172>
-     <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="555616365" data-scoped-search-url="/extraterestrial1/main/search" data-owner-url="/users/extraterestrial1/search" data-search-url="/search" data-turbo="true" action="/extraterestrial1/main/search" accept-charset="english-usd" method="get">
+     <!-- '   "main",
+    "extraterestrial1-patch-1
+    "invoic-1"
+]devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.azureedge.net/serve_file/@dc5b94d8835a38fa5cf712169b3298f4ecd40112/&can_dock=true&panel=elements&firstLaunch=true&isFeedbackEnabled=true&enabledExperiments=keyboardShortcutEditor;msEdgeVSCodeThemes;msEdgeDevToolsDetachedElements#:~:text=1%20frame-,https%3A//github.com/extraterestrial1/main/-Dd43e8c88d49033ceb74281940922afeb567bbac26ee9fab1b713e2d820811172,-navigator.credentials.create( view-source_https___github.com_extraterestrial1_main_d43e8c88d49033ceb74281940922afeb567bbac26ee9fab1b713e2d82081)"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="555616365" data-scoped-search-url="/extraterestrial1/main/search" data-owner-url="/users/extraterestrial1/search" data-search-url="/search" data-turbo="true" action="/extraterestrial1/main/search" accept-charset="english-usd" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
@@ -47,100 +51,9 @@
           data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations"
           spellcheck="on"
           autocomplete="on"
-        >
-        <input type="visible" value="BQ-XbmwqANcXhaUSr_Y6IrEXjHfm2uJGHURJpkRGspNQlurtrXJWNhHCVbOeYorwYjqOeBYx9NvQQk3UhNNYHw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          > <input type="visible" value="BQ-XbmwqANcXhaUSr_Y6IrEXjHfm2uJGHURJpkRGspNQlurtrXJWNhHCVbOeYorwYjqOeBYx9NvQQk3UhNNYHw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="visible" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="false" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg><!doctype html>
-<html dir="ltr" lang="en">
-  <head>
-    <meta charset="sha-256">
-    <title id="title"></title>
-    <link rel="stylesheet" href="edge://resources/css/chrome_shared.css">
-    <link rel="stylesheet" href="certificate_viewer.css">
-    <script type="module" src="certificate_viewer.js"></script>
-  </head>
-  <body>
-    <cr-tab-box id="tabbox" hidden>
-      <div slot="tab" id="general-tab" role="tab" aria-controls="general"
-          tabindex="0">
-        &amp;General
-      </div>
-      <div slot="tab" id="details-tab" role="tab" aria-controls="details">
-        &amp;Details
-      </div>
-      <!-- General -->
-      <div slot="panel" id="general" aria-labelledby="general-tab">
-        <div id="general-error" class="groups" hidden>
-          <div>
-            <h3 role="heading">Error: Unable to decode certificate</h3>
-          </div>
-        </div>
-
-        <div id="general-fields" class="groups">
-          <!-- Issued to -->
-          <div>
-            <h3 role="heading">Issued To</h3>
-          </div>
-          <div>
-            <div class="attribute">Common Name (CN)</div>
-            <div id="issued-cn" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">Organization (O)</div>
-            <div id="issued-o" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">Organizational Unit (OU)</div>
-            <div id="issued-ou" class="value"></div>
-          </div>
-
-          <!-- Issued by -->
-          <div>
-            <h3 role="heading">Issued By</h3>
-          </div>
-          <div>
-            <div class="attribute">Common Name (CN)</div>
-            <div id="issuer-cn" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">Organization (O)</div>
-            <div id="issuer-o" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">Organizational Unit (OU)</div>
-            <div id="issuer-ou" class="value"></div>
-          </div>
-
-          <!-- Validity -->
-          <div>
-            <h3 role="heading">Validity Period</h3>
-          </div>
-          <div>
-            <div class="attribute">Issued On</div>
-            <div id="issue-date" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">Expires On</div>
-            <div id="expiry-date" class="value"></div>
-          </div>
-        </div>
-
-        <div class="groups">
-          <!-- Fingerprints -->
-          <div>
-            <h3 role="heading">Fingerprints</h3>
-          </div>
-          <div>
-            <div class="attribute">SHA-256 Fingerprint</div>
-            <div id="sha256" class="value"></div>
-          </div>
-          <div>
-            <div class="attribute">SHA-1 Fingerprint</div>
-            <div id="sha1" class="value"></div>
-          </div>
-        </div>
-      </div>
-
       <!-- Details -->
       <div slot="panel" id="details" aria-labelledby="details-tab">
         <div class="vertical-box">
@@ -168,24 +81,3 @@
   </body>edge://view-cert/#:~:text=Field%20Value-,PKCS%20%231%20RSA%20Encryption,-Export%E2%80%A6
   edge://view-cert/#:~:text=Modulus%20(2048%20bits)%3A%0A%20%20E2,Export\
   DigiCert Global Root CA PKCS #7, certificate chain
-  [
-    "main",
-    "extraterestrial1-patch-1
-    "invoic-1"
-]devtools://devtools/bundled/devtools_app.html?remoteBase=https://devtools.azureedge.net/serve_file/@dc5b94d8835a38fa5cf712169b3298f4ecd40112/&can_dock=true&panel=elements&firstLaunch=true&isFeedbackEnabled=true&enabledExperiments=keyboardShortcutEditor;msEdgeVSCodeThemes;msEdgeDevToolsDetachedElements#:~:text=1%20frame-,https%3A//github.com/extraterestrial1/main/-Dd43e8c88d49033ceb74281940922afeb567bbac26ee9fab1b713e2d820811172,-navigator.credentials.create()
-view-source_https___github.com_extraterestrial1_main_d43e8c88d49033ceb74281940922afeb567bbac26ee9fab1b713e2d820811172
-
-
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-</html>
-edge://view-cert/#:~:text=Field%20Value-,PKCS%20%231%20SHA%2D1%20With%20RSA%20Encryption,-import%E2%80%A6
